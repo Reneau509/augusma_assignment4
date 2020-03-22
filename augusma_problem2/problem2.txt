@@ -1,0 +1,2 @@
+I'm making sure sure that I can write a write program that will
+remove words that that words are duplicate duplicate versions
